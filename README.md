@@ -37,11 +37,39 @@ I am a dedicated **B.Tech student specializing in Artificial Intelligence and Ma
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Expertise & Proficiency
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudhpatekar19906&show_icons=true&theme=radical" alt="Anirudh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhpatekar19906&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td width="50%">
+        <strong>Python</strong><br />
+        <img src="https://progress-bar.dev/90/?title=Python&color=3670A0" width="300" />
+      </td>
+      <td width="50%">
+        <strong>Machine Learning</strong><br />
+        <img src="https://progress-bar.dev/75/?title=ML&color=orange" width="300" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <strong>Java</strong><br />
+        <img src="https://progress-bar.dev/70/?title=Java&color=007396" width="300" />
+      </td>
+      <td width="50%">
+        <strong>Data Structures</strong><br />
+        <img src="https://progress-bar.dev/80/?title=DSA&color=green" width="300" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudhpatekar19906&show_icons=true&theme=radical&hide_rank=true" alt="Anirudh's GitHub Stats" />
 </div>
 
 ---
