@@ -40,8 +40,8 @@ I am a dedicated **B.Tech student specializing in Artificial Intelligence and Ma
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirudhpatekar199&show_icons=true&theme=radical" alt="Anirudh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhpatekar199&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anirudhpatekar19906&show_icons=true&theme=radical" alt="Anirudh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhpatekar19906&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
