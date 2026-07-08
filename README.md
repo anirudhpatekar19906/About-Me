@@ -53,19 +53,7 @@ Estimating ground-level Air Quality Index (PM2.5) and mapping formaldehyde (HCHO
 **Certifications**
 - ✅ Data Analyst in Python — *DataCamp*
 - ✅ Ethical Hacking Certification — *Cisco*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anirudhpatekar&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhpatekar&layout=compact&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhpatekar&theme=default&hide_border=true" />
-</div>
+- ✅ Machine Learning Engineer — *DataCamp*
 
 ---
 
